@@ -1,0 +1,23 @@
+Theme: Destinations
+
+Image 1:
+Image Name: Enchanted Oasis
+Image Description: A serene oasis surrounded by palm trees and a shimmering pool of water.
+Long Description: Transport yourself to an Enchanted Oasis, a fragrance that captures the allure of a secluded paradise. The image presents a serene oasis nestled amidst a lush landscape, with palm trees swaying gently and a shimmering pool of water reflecting the azure sky. With its refreshing blend of tropical fruits, exotic florals, and a touch of creamy coconut, Enchanted Oasis takes you on a sensory journey to a tranquil haven. Immerse yourself in the serenity of this destination and experience the enchantment of Enchanted Oasis.
+Image 2:
+Image Name: Urban Adventure
+Image Description: A bustling city skyline at dusk, with vibrant lights illuminating the streets.
+Long Description: Embark on an Urban Adventure with a fragrance that captures the energy and vibrancy of a bustling city. The image showcases a city skyline at dusk, adorned with vibrant lights that illuminate the streets below. With its invigorating blend of zesty citruses, aromatic spices, and a hint of smoky incense, Urban Adventure encapsulates the dynamic spirit of exploration. Immerse yourself in the pulsating rhythm of city life and ignite your senses with Urban Adventure.
+Image 3:
+Image Name: Mystic Mountains
+Image Description: Majestic mountains shrouded in mist and crowned with snow.
+Long Description: Discover the awe-inspiring beauty of Mystic Mountains, a fragrance that captures the mystique and grandeur of towering peaks. The image portrays majestic mountains enveloped in ethereal mist, their summits crowned with glistening snow. With its fresh and invigorating blend of crisp mountain air, aromatic herbs, and a touch of cool alpine woods, Mystic Mountains takes you on an exhilarating journey to untouched heights. Immerse yourself in the captivating essence of Mystic Mountains and let your spirit soar amidst nature's wonders.
+Image 4:
+Image Name: Serene Seaside
+Image Description: A tranquil beach with gentle waves caressing the shore and seashells scattered on the sand.
+Long Description: Indulge in the tranquility of a Serene Seaside, a fragrance that captures the soothing embrace of coastal serenity. The image showcases a tranquil beach scene, with gentle waves caressing the shore and seashells scattered on the sandy coastline. With its marine-inspired blend of fresh sea breeze, delicate florals, and a hint of warm driftwood, Serene Seaside transports you to a peaceful haven by the ocean. Immerse yourself in the serenity of this coastal destination and let the essence of Serene Seaside wash over you.
+Image 5:
+Image Name: Majestic Citadel
+Image Description: A magnificent castle perched on a hill, surrounded by lush gardens and flowing fountains.
+Long Description: Experience the grandeur of a Majestic Citadel, a fragrance that captures the regal allure of a stately fortress. The image showcases a magnificent castle perched on a hill, its towers reaching for the sky, surrounded by lush gardens and flowing fountains. With its opulent blend of rich woods, velvety roses, and hints of smoky incense, Majestic Citadel exudes an air of sophistication and elegance. Immerse yourself in the splendor of this destination and embrace the majestic essence of Majestic Citadel.
+Theme Description: Embark on a sensory journey to captivating Destinations. This theme invites you to explore fragrances inspired by enchanting

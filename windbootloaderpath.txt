@@ -1,0 +1,2 @@
+windows bootloader path - \EFI\Microsoft\Boot\bootmgfw.efi
+

@@ -1,0 +1,23 @@
+Theme: Seasons
+
+Image 1:
+Image Name: Spring Awakening
+Image Description: Blooming flowers in vibrant colors, announcing the arrival of spring.
+Long Description: Witness the beauty of rebirth and renewal with Spring Awakening, a fragrance that captures the essence of the blooming season. The image showcases a vibrant tapestry of flowers in full bloom, their petals unfurling in a kaleidoscope of colors. With its delicate blend of floral notes, crisp green accords, and hints of dewy freshness, this fragrance evokes the rejuvenating spirit of spring. Embrace the awakening of nature and immerse yourself in the enchantment of Spring Awakening.
+Image 2:
+Image Name: Summer Bliss
+Image Description: Sun-kissed beach with turquoise waters and palm trees swaying in the breeze.
+Long Description: Immerse yourself in the blissful embrace of Summer Bliss, a fragrance that captures the essence of the sun-soaked season. The image portrays a pristine beach with turquoise waters glistening under the radiant sun, while palm trees sway in the gentle breeze. With its tropical blend of juicy fruits, warm sandalwood, and a hint of coconut, Summer Bliss transports you to a paradise of endless sunshine and carefree joy. Experience the invigorating allure of summer with Summer Bliss.
+Image 3:
+Image Name: Autumn Enchantment
+Image Description: A forest adorned with vibrant fall foliage, creating a picturesque landscape.
+Long Description: Immerse yourself in the enchanting beauty of Autumn Enchantment, a fragrance that captures the essence of the fall season. The image showcases a picturesque forest adorned with vibrant hues of red, orange, and gold, as leaves gently cascade from the trees. With its warm and cozy blend of spices, earthy notes, and a touch of vanilla, Autumn Enchantment evokes the comforting embrace of autumn. Embrace the magical allure of the season and immerse yourself in the captivating essence of Autumn Enchantment.
+Image 4:
+Image Name: Winter Serenade
+Image Description: Snow-covered landscape with glistening icicles and a cozy cabin in the distance.
+Long Description: Embrace the serene serenade of Winter Serenade, a fragrance that captures the ethereal beauty of the winter season. The image portrays a snow-covered landscape, adorned with glistening icicles, and a cozy cabin nestled in the distance. With its enchanting blend of cool mint, velvety spices, and warm woody accords, Winter Serenade evokes the tranquility and crispness of a winter wonderland. Immerse yourself in the captivating aura of winter and embrace the serene melodies of Winter Serenade.
+Image 5:
+Image Name: Timeless Transitions
+Image Description: Changing leaves on a tree, symbolizing the passage of time.
+Long Description: Experience the timeless transitions of the seasons with Timeless Transitions, a fragrance that embodies the essence of change and growth. The image showcases a majestic tree adorned with leaves in various stages of transition, representing the passage of time. With its captivating blend of evolving scents, from fresh greens to warm spices and hints of amber, Timeless Transitions captures the beauty of each season's evolution. Embrace the eternal dance of time and immerse yourself in the timeless essence of Timeless Transitions.
+Theme Description: Experience the ever-changing beauty of the Seasons. This theme invites you to explore fragrances inspired by the distinct moods and scents of each season. From the vibrant blooms of spring to the sun-kissed warmth of summer, the earthy hues of autumn, and
